@@ -1,102 +1,111 @@
-<!-- Başlık -->
-<h1 align="center">👋 Merhaba! Ben Buğra Alperen Uluırmak (NoirZangetsu)</h1>
-<h3 align="center">🧠 AI Engineer | LLM Researcher | Flutter Developer</h3>
+<!-- Profil Başlık ve Rol -->
+<h1 align="center">👋 Merhaba! I'm <span style="color:#ff4081;">Buğra Alperen Uluırmak</span> (aka <strong>NoirZangetsu</strong>)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=800&lines=🚀+AI+Engineer+Specializing+in+LLMs,+Multimodal+AI,+and+OCR-Free+Systems;📱+Mobile+AI+App+Developer+(Flutter+%2B+Transformers);🎓+Academic+Researcher+%7C+Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F72070&center=true&vCenter=true&width=800&lines=🧠+AI+Engineer+Specializing+in+LLMs,+Multimodal+AI,+OCR-Free+Systems;📱+Flutter+AI+App+Developer+%7C+FastAPI+Backend+Creator;🔬+Academic+Researcher+%7C+Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/NoirZangetsu/NoirZangetsu/assets/your-profile-banner.png" width="100%" />
 </p>
 
 ---
 
-## 🧩 About Me | Hakkımda
+## 🧠 About Me | Hakkımda
 
-### 🇺🇸 English  
-I am an AI Engineer and researcher focused on fine-tuning large language models, multimodal systems, and building AI-powered mobile applications. My work bridges academic rigor and real-world production systems. I specialize in:
+<table>
+<tr>
+<td width="50%">
 
-- 🧠 Fine-tuning open-source LLMs (Gemma, Qwen, DeepSeek, Mistral)  
-- 📄 Document AI (OCR-free classification & data extraction with Donut, GIT, Qwen-VL)  
-- 📱 AI-integrated Flutter apps (e.g., MentalCheck, DocuSense)  
-- 🧪 Academic benchmarking with BLEU, ROUGE-L, METEOR, TensorBoard, W&B  
-- ⚙️ Local inference & optimization for low-resource deployment (QLoRA, 4-bit, GGUF)
+### 🇬🇧 English
 
-> 🏆 Currently building: an offline multimodal psychological assistant app using **Gemma 3n** + **Wav2Vec** + **Facial Analysis**
+- I’m an **AI engineer and researcher** focusing on:
+  - 🔬 Fine-tuning open-source **LLMs** (Gemma, Qwen, Mistral, DeepSeek)
+  - 🧾 **Document AI** with OCR-free pipelines (`Donut`, `Qwen-VL`, `GIT`)
+  - 📱 Offline-capable **Flutter AI apps**
+  - 📊 Academic benchmarking (BLEU, ROUGE, METEOR, W&B)
 
----
+- ⚙️ I design **resource-efficient** 4-bit models (LoRA/QLoRA, GGUF).
+- 🧪 Built AI systems deployed on A100, Colab, and RTX 4070 systems.
+- 🎯 Currently building: `MentalCheck` - a multimodal psychological coach (voice, facial, text analysis).
 
-### 🇹🇷 Türkçe  
-Ben bir yapay zeka mühendisiyim. Büyük dil modelleri (LLM) üzerine özelleştirme (fine-tuning), çok modlu yapay zeka sistemleri ve belge işleme çözümleri geliştiriyorum. Hem akademik hem endüstriyel sistemlerde deneyimliyim. Uzmanlık alanlarım:
+</td>
+<td width="50%">
 
-- 🧠 Açık kaynak LLM'lerin Türkçeye özel eğitimi (Gemma, Qwen, DeepSeek, Mistral)
-- 📄 OCR'siz belge sınıflandırma ve veri çıkarımı sistemleri (Donut, GIT, Qwen-VL)
-- 📱 Flutter ile AI destekli mobil uygulamalar (MentalCheck, DocuSense gibi)
-- 📊 Akademik değerlendirme (BLEU, ROUGE, METEOR, TensorBoard, W&B)
-- 🧠 Donanım sınırlı cihazlarda AI çalıştırma (QLoRA, GGUF, 4-bit modeller)
+### 🇹🇷 Türkçe
 
-> 🧠 Şu an geliştirilen proje: **Gemma 3n** tabanlı offline çalışan çok modlu psikolojik analiz asistanı uygulaması (MentalCheck)
+- **Yapay zeka mühendisi ve araştırmacısıyım.** Uzmanlık alanlarım:
+  - 🧠 Açık kaynak **LLM** modellerinin Türkçeye özgü eğitimi (Gemma, Qwen, DeepSeek)
+  - 📄 OCR kullanmadan belge sınıflandırma ve veri çıkarımı
+  - 📱 AI destekli **Flutter mobil uygulamaları**
+  - 📊 Akademik değerlendirme (BLEU, ROUGE, METEOR)
 
----
+- 🔧 Donanım kısıtlı cihazlar için 4-bit ve GGUF formatında modeller optimize ederim.
+- 🧪 A100, Colab Pro+ ve RTX 4070 platformlarında sistemler geliştiririm.
+- 🎯 Şu an: `MentalCheck` adında çok modlu psikolojik analiz asistanı geliştiriyorum.
 
-## 🛠️ Tech Stack | Kullandığım Teknolojiler
-
-### 🧠 AI / ML
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/-Transformers-FBB040?style=for-the-badge&logo=huggingface&logoColor=black)
-![LoRA](https://img.shields.io/badge/-LoRA-512DA8?style=for-the-badge)
-![Unsloth](https://img.shields.io/badge/-Unsloth-009688?style=for-the-badge)
-![TensorBoard](https://img.shields.io/badge/-TensorBoard-FFA500?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 📱 App & Backend
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
-### ☁️ Tools & Cloud
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FED142?style=for-the-badge&logo=huggingface)
-![Weights & Biases](https://img.shields.io/badge/-W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases)
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoirZangetsu&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NoirZangetsu&theme=radical" height="180"/>
-</p>
+### 🤖 AI & Research
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗-Transformers-yellow?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-4A148C?style=for-the-badge&logo=matrix&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-009688?style=for-the-badge)
+![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases)
+
+### 💻 App & Backend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00BFA6?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+### ☁️ Tools
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD43B?style=for-the-badge&logo=huggingface)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 🧠 Selected Projects | Seçili Projeler
+## 🚀 Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| 🧾 [DocuSense](https://github.com/NoirZangetsu) | OCR'siz belge tanıma ve veri çıkarımı sistemi – `Donut`, `Qwen-VL`, `FastAPI`, `PostgreSQL` |
-| 🧘‍♂️ MentalCheck | Offline çalışan çok modlu (ses + yüz + metin) psikolojik analiz uygulaması – `Gemma 3n`, `Wav2Vec`, `Flutter` |
-| 🔥 Wildfire Detection | SimCLR ve MAE ön eğitimli modellerle yangın tespiti – `YOLOv8`, `ViT`, `Self-Supervised Learning` |
-| 🤖 Flutter LLM Gen | Türkçe Flutter kod üretimi için fine-tuned modeller – `Qwen-2.5`, `Gemma-3`, `AutoTrain` |
+| 🔍 **DocuSense** | OCR’siz belge sınıflandırma ve veri çıkarım sistemi (Donut, Qwen-VL, FastAPI) |
+| 🧘 **MentalCheck** | Offline çalışan çok modlu ruh hali analiz asistanı (Gemma 3n, Wav2Vec, Flutter) |
+| 🔥 **Wildfire Detector** | Yangın tespiti için SimCLR & MAE destekli YOLOv8 sistemi |
+| 🧑‍💻 **Flutter-LLM** | Türkçe Flutter kodu üreten fine-tuned modeller (Gemma, Qwen) |
 
 ---
 
-## 📬 Contact Me | Bana Ulaş
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/bugraalperen"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:bugraalperen@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://huggingface.co/NoirZangetsu"><img src="https://img.shields.io/badge/-HuggingFace-FFD43B?style=for-the-badge&logo=huggingface"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=NoirZangetsu&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NoirZangetsu&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoirZangetsu&layout=compact&theme=tokyonight" />
 </p>
 
-<!--
-**NoirZangetsu/NoirZangetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://linkedin.com/in/bugraalperen" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bugraalperen@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/NoirZangetsu" target="_blank">
+    <img src="https://img.shields.io/badge/-HuggingFace-FFD43B?style=for-the-badge&logo=huggingface" />
+  </a>
+</p>
+
+---
